@@ -1,2 +1,3 @@
 # Unity_practice
-慣れ
+UniryとC#の練習
+主にC#を上げる。
